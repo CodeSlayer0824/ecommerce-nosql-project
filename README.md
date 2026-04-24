@@ -1,6 +1,6 @@
 # ShopSmart – E-Commerce Product Catalog with Smart Cart
 
-Full-stack e-commerce system using **Python/Flask**, **MongoDB**, and **Redis**.
+Full-stack E-Commerce System using **Python/Flask**, **MongoDB**, and **Redis**.
 
 ## Stack
 | Layer | Technology |
